@@ -1,0 +1,43 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px;
+    background: #f4f4f4;
+  }
+  
+  .resume {
+    background: white;
+    padding: 30px;
+    max-width: 700px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 12px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 32px;
+  }
+  
+  h2 {
+    margin-top: 5px;
+    font-weight: normal;
+    color: gray;
+  }
+  
+  section {
+    margin-top: 20px;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  button {
+    margin-top: 30px;
+    padding: 10px 20px;
+    background: #007bfc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
